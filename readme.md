@@ -1,4 +1,4 @@
-## Sistema de notas de alunos desenvolvido com angular js
+## Student grades system developed with angular js
 AppNotas
 
 ## Author
